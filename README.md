@@ -18,6 +18,6 @@ Walday, M., Gitmark, J., Naustvoll, L. J., Selvik, J. R. & Norli, M (2018)
 Overvåkning av Ytre Oslofjord 2014-2018,
 Årsrapport for 2017,
 NIVA rapport 7283-2018, 38 sider,
-http://www.indre-https://brage.bibsys.no/xmlui/handle/11250/2565616
+https://brage.bibsys.no/xmlui/handle/11250/2565616
 
 
