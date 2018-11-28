@@ -1,7 +1,7 @@
 # Ytre Oslofjord
 Hydrografidata fra overvåkningsprogrammet for Ytre Oslofjord
 
-Disse dataene er samlet inn i forbindelse med overvåkningsprogarmmet for Ytre Oslofjord.
+Disse dataene er samlet inn i forbindelse med overvåkningsprogrammet for Ytre Oslofjord.
 Programmet er finasiert av Fagrådet for Ytre Oslofjord.
 
 På denne siden ligger det rådata fra CTD instrument. Dataene er ikke kvalitetsikret. 
